@@ -1,0 +1,16 @@
+{
+  "name": "kostopro-v3",
+  "version": "3.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^4.0.0",
+    "jspdf": "^2.5.1",
+    "recharts": "^2.1.9"
+  }
+}
